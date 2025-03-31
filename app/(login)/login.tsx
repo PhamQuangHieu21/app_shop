@@ -68,6 +68,7 @@ const styles = StyleSheet.create({
         paddingTop: 100,
         flexDirection: 'column',
         alignContent: 'space-around',
+        backgroundColor: "white",
         alignItems: 'center',
         paddingHorizontal: 16, // Thêm khoảng cách hai bên
     },
